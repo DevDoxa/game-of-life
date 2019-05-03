@@ -495,4 +495,16 @@
             </reporting>
         </profile>
     </profiles>
+    
+  <distributionManagement>
+    
+    <repository>
+      <id>deploymentRepo</id>
+      <name>repo</name>
+      <url>http://51.158.79.3:32447/repository/demo/</url>
+    </repository>
+    
+    
+  </distributionManagement>
+    
 </project>
