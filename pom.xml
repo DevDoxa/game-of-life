@@ -498,11 +498,11 @@
     
   <distributionManagement>
     
-    <repository>
-      <id>deploymentRepo</id>
-      <name>demo</name>
-      <url>http://51.158.79.3:32447/repository/demo/</url>
-    </repository>
+    <snapshotRepository>
+      <id>snapshots</id>
+      <name>testing</name>
+      <url>http://51.158.79.3:32447/repository/testing/</url>
+    </snapshotRepository>
     
     
   </distributionManagement>
